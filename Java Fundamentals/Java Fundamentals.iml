@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/01. Simple Computations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02. Conditional Statements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03. Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04. Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05. Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
