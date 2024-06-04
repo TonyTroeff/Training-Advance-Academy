@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/05. Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06. Array Algorithms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07. Data Structures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Stream API, Lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. Workshop" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
